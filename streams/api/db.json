@@ -1,0 +1,32 @@
+{
+  "streams": [
+    {
+      "title": "Ds3 speedrun",
+      "description": "Dark souls 3 any% speedrun",
+      "id": 1
+    },
+    {
+      "title": "Elden Ring ",
+      "description": "Just playing",
+      "userId": "104507889447454920386",
+      "id": 3
+    },
+    {
+      "title": "Coconuat!",
+      "description": "Go Higher!!",
+      "userId": "104507889447454920386",
+      "id": 4
+    },
+    {
+      "title": "Dark Souls 1",
+      "description": "Gwyn fight",
+      "id": 5
+    },
+    {
+      "title": "Don't starve stream",
+      "description": "Starving",
+      "userId": "104507889447454920386",
+      "id": 6
+    }
+  ]
+}
